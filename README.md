@@ -14,7 +14,9 @@ A supply chain consists of all parties involved in the process of fulfilling a c
 
 ### WHAT IS SUPPLY CHAIN OPTIMIZATION? 
 Optimizations aims for the most effective process of fulfilling a customer request given existing constrains. 
-![image.png](attachment:image.png)
+
+<img width="1958" height="716" alt="image" src="https://github.com/user-attachments/assets/c7b255ac-7d5c-4a11-b5b9-728fe1ffa4fd" />
+
 
 * Contrains could include but are not limited to:
     * cost 
